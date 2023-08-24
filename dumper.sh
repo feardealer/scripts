@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# this script does not work, need user interrupts
 DUMP_DIR="/path/to/dir/"
 
 create_traffic_dump() {
